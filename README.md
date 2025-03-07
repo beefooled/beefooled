@@ -4,6 +4,10 @@
     <a href="https://twitch.tv/beefooled"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"></a>
     <a href="https://x.com/beefooled"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
   </p>
+  <p>
+    <a href="https://gist.github.com/beefooled"><img src="https://img.shields.io/badge/gists-121013?style=for-the-badge&logo=github&logoColor=white" alt="Gists"></a>
+    <a href="https://github.com/beefooled?tab=repositories"><img src="https://img.shields.io/badge/repos-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Gists"></a>
+  </p>
 </div>
 
 I keep my streamer identity and my real identity extremely separate for safety reasons. Sometimes, I want to share streaming-related code, but my main GitHub account's username is my full name. You can guess why I had to create this side account.
